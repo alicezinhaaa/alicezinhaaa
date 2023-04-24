@@ -7,7 +7,7 @@
 🔗 = [Instagram](https://www.instagram.com/__alicezinha/) and [linkedin](https://www.linkedin.com/in/alice-ara%C3%BAjo-3817931b7/)<br>
 
 ```Java
-System.out.println("I study Java a lot");
+System.out.println("I studying Java");
 ```
 <br>
 
